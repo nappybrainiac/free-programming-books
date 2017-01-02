@@ -39,7 +39,7 @@ reported by contacting a project maintainer at victorfelder at gmail.com. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. Maintainers are
 obligated to maintain confidentiality with regard to the reporter of an
-incident.
+incident,
 
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
